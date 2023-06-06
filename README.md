@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=2AC1BC&height=150&section=header&text=G0RANI&fontSize=90)
-
 #### Hi there 👋
 #### Java backend engineer
 #### I love to think
