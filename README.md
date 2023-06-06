@@ -1,6 +1,6 @@
 #### Hi there 👋
 #### Java backend engineer
-#### I love to think
+#### I like designs that make it easy to write test code
 #### I'm very interested in design
 * * *
 #### SKILL
